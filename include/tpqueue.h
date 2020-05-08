@@ -3,6 +3,7 @@
 template<typename T>
 class TPQueue
 {
+private:
   // Сюда помещается описание структуры "Очередь с приоритетами"
 };
 
